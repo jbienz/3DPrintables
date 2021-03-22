@@ -5,6 +5,8 @@
 
 ## Background
 
+![](Media/Top.png)
+
 I created this because I'm always spilling coffee in my cup holders and they're hard to wash clean! I bought several different options from Amazon and though the designs were OK they, still didn't solve the coffee problem. These 3D printed inserts are water tight, and they can easily be removed and washed out in the sink.
 
 ## Design
@@ -28,14 +30,15 @@ The Fusion 360 design file is [CupHolders.f3d](Design/CupHolders.f3d). It's full
 
 If for some reason the cup holders don't fit in your Model 3 it's probably the `CupCenterFromMiddle` parameter. In my car 50.56mm was too wide but 50mm was quite snug. It could probably be somewhere in between. If you find you need to modify this please let me know what you changed it to.
 
-![](Media/Top.png)
-
 ![](Media/Front.png)
 
 ![](Media/Parametric.png)
 
 
 ## Printing
+
+Time Lapse
+[![](http://img.youtube.com/vi/9PsmoF3jdqA/0.jpg)](http://www.youtube.com/watch?v=9PsmoF3jdqA "Time Lapse")
 
 Two ways to print:
 
