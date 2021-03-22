@@ -37,7 +37,8 @@ If for some reason the cup holders don't fit in your Model 3 it's probably the `
 
 ## Printing
 
-Time Lapse
+Time Lapse:
+
 [![](http://img.youtube.com/vi/9PsmoF3jdqA/0.jpg)](http://www.youtube.com/watch?v=9PsmoF3jdqA "Time Lapse")
 
 Two ways to print:
