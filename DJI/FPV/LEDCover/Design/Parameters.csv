@@ -1,0 +1,45 @@
+LoopWidth,mm,3 mm,Landard Loop Width
+LoopLength,mm,8 mm,Lanyard Loop Length
+ButtonCenterGap,mm,20 mm,Usable space between the two buttons
+ButtonDiameter,mm,15 mm,How wide the buttons are
+CoverWidth,mm,35 mm,Width of the LED Cover
+CoverLength,mm,8.5 mm,How far the LED cover extends below the loop
+SurfaceHeight,mm,2 mm,How tall the cover is on the top surface of the remote
+SubSurfaceDepth,mm,5 mm,How far below the surface the cover extends
+TopEdgeRadius,mm,8 mm,Radius of the top edge near the loop
+BottomEdgeRadius,mm,2 mm,Radius of the bottom edges over the LEDs
+ButtonCenterToCenter,mm,35 mm,Distance between the center of the two buttons
+EdgeFilet,mm,0.6 mm,Filet radius for most outer edges.
+LoopBottomFilet,mm,1.5 mm,Filet for the bottom of the Loop
+ControllerFilet,mm,15 mm,Radius of the controller filet below the buttons
+LoopToControllerFilet,mm,1 mm,Distance from center point of the loop to where controller filet begins
+LoopTopFilet,mm,0.5 mm,Filet for the top of the loop
+d13,mm,LoopLength,
+d14,mm,LoopWidth,
+d46,mm,ButtonCenterToCenter,
+d53,mm,ButtonDiameter,
+d56,mm,ButtonDiameter / 2,
+d59,mm,2.00 mm,
+d60,mm,CoverWidth / 2,
+d61,mm,LoopWidth / 2,
+d25,mm,SurfaceHeight,
+d26,deg,0.0 deg,
+d31,mm,SubSurfaceDepth,
+d32,deg,0.0 deg,
+d27,mm,ButtonDiameter / 2,
+d66,mm,24 mm,
+d75,mm,SubSurfaceDepth,
+d76,mm,SubSurfaceDepth,
+d92,mm,LoopToControllerFilet,
+d93,mm,SurfaceHeight,
+d94,mm,SurfaceHeight * 4,
+d40,mm,CoverWidth / 2,
+d41,deg,0.0 deg,
+d62,,1,
+d63,mm,EdgeFilet,
+d82,,1,
+d83,mm,EdgeFilet,
+d99,,1,
+d100,mm,LoopBottomFilet,
+d101,,1,
+d102,mm,LoopTopFilet,

@@ -7,8 +7,15 @@ This repository includes various 3D Printable designs that I've created and want
 
 ## Models
 
+### DJI FPV Drone
+
+[<img src="DJI/FPV/LEDCover/Media/Cover.jpg" width=400>](DJI/FPV/LEDCover)
+
+[LED Cover](DJI/FPV/LEDCover) - A cover that keeps LEDs from blinding you while learning to fly in sims.
+
+
 ### Tesla Model 3
 
-[![](Tesla/Model3/CupHolders/Media/Thumb.png)](Tesla/Model3/CupHolders)
+[<img src="Tesla/Model3/CupHolders/Media/Thumb.png" width=400>](Tesla/Model3/CupHolders)
 
 [Cup Holders](Tesla/Model3/CupHolders) - Washable inserts with Tesla logo.
