@@ -41,8 +41,8 @@ Special thanks to all of those authors for making this design possible.
 
 Two ways to print:
 
-1. [TimberDJIFPV-Prusa.3mf](Print/TimberDJIFPV-Prusa.3mf) - A Prusa Slicer project ready to print with recommended settings below
-2. [TimberDJIFPV.3mf](Print/TimberDJIFPV.3mf) - Regular 3MF without any parameters (see recommended settings below)
+1. [TimberDJIFPV.3mf](Print/TimberDJIFPV.3mf) - A Prusa Slicer project ready to print with recommended settings below
+2. [TimberDJIFPV.stl](Print/TimberDJIFPV.stl) - Regular STL without any parameters (see recommended settings below)
 
 <img src="Media/Print01.jpg" width=600>
 
