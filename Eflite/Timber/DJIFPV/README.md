@@ -14,7 +14,7 @@ This print was created to mount the [DJI Digital FPV](https://www.dji.com/fpv) s
 
 <img src="Media/Mounted03.jpg" width=600>
 
-I can't take full credit for this design as it's a combination (and modification) of other talented modelers (see below).
+I can't take full credit for this design as it's a combination (and modification) of work from other talented modelers (see below).
 
 The mount is ready to fly after printing, but I recommend adding a bit of Velcro or double-sided sticky tape under the rear of the mount if you plan to fly inverted. The mount shouldn't fall off, but it may bounce when entering or exiting the inversion.
 
