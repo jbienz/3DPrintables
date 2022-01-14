@@ -7,12 +7,17 @@ This repository includes various 3D Printable designs that I've created and want
 
 ## Models
 
-### DJI FPV Drone
+### DJI FPV LED Cover
 
 [<img src="DJI/FPV/LEDCover/Media/Cover.jpg" width=400>](DJI/FPV/LEDCover)
 
 [LED Cover](DJI/FPV/LEDCover) - A cover that keeps LEDs from blinding you while learning to fly in sims.
 
+### Timber DJI FPV Mount
+
+[<img src="Eflite/Timber/DJIFPV/Media/Mounted01.jpg" width=400>](Eflite/Timber/DJIFPV)
+
+[Timber DJI FPV Mount](Eflite/Timber/DJIFPV) - Mount the DJI Digital FPV system to E-flite Timber series aircraft.
 
 ### Tesla Model 3
 
