@@ -29,7 +29,7 @@ The Fusion 360 design file is [TimberDJIFPV.f3d](Design/TimberDJIFPV.f3d). Unlik
 
 This design leverages parts from the following models:
 
-- [DJI Digital FPV Air Unit and Camera mount](https://www.thingiverse.com/thing:4082399) by [UltrasoundJelly](https://www.thingiverse.com/ultrasoundjelly/designs), which
+- [DJI Digital FPV Air Unit and Camera mount](https://www.thingiverse.com/thing:4082399) by [UltrasoundJelly](https://www.thingiverse.com/ultrasoundjelly/designs)
 - [DJI FPV Camera and Transmitter External Mount](https://www.thingiverse.com/thing:3931186) by [Brett](https://www.thingiverse.com/brett/designs)
 - [Air Unit Mount](https://www.rcgroups.com/forums/showpost.php?p=43422775&postcount=3308) by [Flynn203](https://www.rcgroups.com/forums/member.php?u=320757)
 - [E-Flite Timber 1.5 m FPV Module](https://www.thingiverse.com/thing:4408089) by [kiefersavoie](https://www.thingiverse.com/kiefersavoie/designs)  
