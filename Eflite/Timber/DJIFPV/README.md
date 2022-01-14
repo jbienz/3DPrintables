@@ -56,7 +56,7 @@ For this model PLA is **NOT recommend** for the following reasons:
 - PLA has relatively low tensile strength compared to other materials
 - PLA does not weather well in the sun 
 
-Therefore, PETG is recommended. Nylon materials like Alloy 910 are also an option, but nylon supports are notoriously difficult to remove and this model does require several supports.
+Instead, PETG is recommended for this design. Nylon materials like Alloy 910 are also an option, but nylon supports are notoriously difficult to remove and this model does require several supports.
 
 I recommend a layer height of 0.2 mm and 30% infill. Printing with the antenna supports on the base will require the fewest supports. The large holes that can be used to secure the air unit do not require supports, but I do recommend using supports for the crescent moon shaped hole on the camera mount.
 
