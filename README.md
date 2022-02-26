@@ -23,7 +23,7 @@ This repository includes various 3D Printable designs that I've created and want
 
 [<img src="Mateksys/H743V2/SnapMount/Media/Printed01.jpg" width=400>](Mateksys/H743V2/SnapMount)
 
-[H743 Wing V2 Snap Mount](Mateksys/H743V2/SnapMount) - A cover that keeps LEDs from blinding you while learning to fly in sims.
+[H743 Wing V2 Snap Mount](Mateksys/H743V2/SnapMount) - a solid self-snapping mount can be hot glued into foam planes or screwed into wood planes.
 
 ### Tesla
 
