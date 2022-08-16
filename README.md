@@ -21,6 +21,13 @@ This repository includes various 3D Printable designs that I've created and want
 
 ### Mateksys
 
+### Mateksys
+
+[<img src="Mateksys/M8Q5883/SlideMount/Media/DesignProfile.png" width=400>](Mateksys/M8Q5883/SlideMount)
+
+[M8Q-5883 Slide Mount](Mateksys/M8Q5883/SlideMount) - A friction mount for a popular GPS / Compass unit.
+
+
 [<img src="Mateksys/H743V2/SnapMount/Media/Printed01.jpg" width=400>](Mateksys/H743V2/SnapMount)
 
 [H743 Wing V2 Snap Mount](Mateksys/H743V2/SnapMount) - a solid self-snapping mount can be hot glued into foam planes or screwed into wood planes.
