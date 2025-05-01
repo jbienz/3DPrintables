@@ -37,3 +37,7 @@ This repository includes various 3D Printable designs that I've created and want
 [<img src="Tesla/Model3/CupHolders/Media/Thumb.png" width=400>](Tesla/Model3/CupHolders)
 
 [Model 3 Cup Holders](Tesla/Model3/CupHolders) - Washable inserts with Tesla logo.
+
+[<img src="Tesla/Powerwall3/PortCovers/Media/Install02.jpg" width=400>](Tesla/Powerwall3/PortCovers)
+
+[Powerwall 3 Port Covers](Tesla/Powerwall3/PortCovers) - Cover unsightly ports while staying on-brand.
