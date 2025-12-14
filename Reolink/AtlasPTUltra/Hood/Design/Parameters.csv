@@ -1,0 +1,15 @@
+Name,Unit,Expression,Value,Comments,Favorite
+InnerWidth,mm,130 mm,130.00,Width inside the hood,false
+WallHeight,mm,86 mm,86.00,Height inside the hood,false
+NotchHeight,mm,86 mm,86.00,How tall the notch is,false
+NotchDepth,mm,42 mm,42.00,How deep the notch is,false
+InnerDepth,mm,168 mm,168.00,How deep the hood extends away from the mounting plate,false
+MountingDepth,mm,2 mm,2.00,How deep the mounting plate extends,false
+MountingWidth,mm,12 mm,12.00,How wide the mounting point surface is,false
+OuterThickness,mm,2 mm,2.00,How thick the walls are,false
+MountingHoleDiameter,mm,3.5 mm,3.50,,false
+MountingHoleCount,pcs,3 pcs,3.00,,false
+HoodRadius,mm,65 mm,65.00,,false
+BottomCornerFilet,mm,5 mm,5.00,,false
+NotchFillet,mm,3 mm,3.00,,false
+ArchHeight,mm,44 mm,44.00,,false
