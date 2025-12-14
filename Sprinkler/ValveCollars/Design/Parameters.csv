@@ -1,0 +1,9 @@
+Name,Unit,Expression,Value,Comments,Favorite
+InnerDiammeter,mm,170 mm,170.00,The inner column the lid passes through,false
+WallThickness,mm,3 mm,3.00,Thickness of the main wall,false
+BaseExtension,mm,( 180 mm - ( InnerDiammeter ) ) / 2,5.00,"Diameter of outer ring to go under rocks, etc.",false
+BaseHeight,mm,4 mm,4.00,How tall the base should be before flange,false
+ColumnHeight,mm,52 mm,52.00,How tall the total extension is from the ground up,false
+BaseFiletDiameter,mm,4.1 mm,4.10,Diameter of the inward fillet,false
+BaseFiletOffset,mm,1.5 mm,1.50,How far from the groud does the filet start,false
+TopFiletDiameter,mm,1.5 mm,1.50,How rounded the top edge is.,false

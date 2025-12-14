@@ -51,6 +51,14 @@ mount can be hot glued into foam planes or screwed into wood planes.
 [Atlas PT Ultra Hood](Reolink/AtlasPTUltra/Hood) - A hood designed to shield
 most of the housing and connections from rain and direct sunlight.
 
+### Sprinkler
+
+[<img src="Sprinkler/ValveCollars/Media/Design.jpg" width=400>](Sprinkler/ValveCollars)
+
+[ValveCollars](Sprinkler/ValveCollars) - Collars designed for a standard US 6"
+round valve box to keep decorative fill rocks from covering up and preventing
+access to the valves.
+
 ### Tesla
 
 [<img src="Tesla/Model3/CupHolders/Media/Thumb.png" width=400>](Tesla/Model3/CupHolders)
