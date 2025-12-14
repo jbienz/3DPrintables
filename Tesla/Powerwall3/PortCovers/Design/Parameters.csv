@@ -1,0 +1,11 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Width,mm,156 mm,156.00,How wide the badge is.,false
+LeftHeight,mm,163.5 mm,163.50,,false
+RightHeight,mm,LeftHeight - 6 mm,157.50,,false
+LeftLoftDepth,mm,4 mm - FrontFaceDepth,3.50,,false
+RightLoftDepth,mm,8 mm - FrontFaceDepth,7.50,,false
+LogoCutDepth,mm,1.5 mm,1.50,How deep the logo is cut into the badge.,false
+LogoCutOffset,mm,0.75 mm,0.75,How thick the outline of the logo cut is.,false
+FlareHeight,mm,20 mm,20.00,How tall the rear notch is cut to make way for the bottom right flare in the powerwall port area.,false
+FrontFaceDepth,mm,0.5 mm,0.50,How deep the face goes before the loft starts,false
+FaceCornerRadius,mm,3 mm,3.00,How rounded the face corners are.,false
