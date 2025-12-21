@@ -70,9 +70,12 @@ standard printer bed sizes:
    [Right Wing.3mf](Print/Right%20Wing.3mf)
 
 The .3mf files include recommended print settings such as supports and infill. I
-recommend printing with a layer height of 0.20mm. Infill isn't really needed as
-this part effectively prints solid. The parts can optionally be glued, but they
-do hold together pretty well with just compression.
+recommend printing with a layer height of 0.20mm. Infill of 20% is sufficient,
+though most of these pieces print solid due to their thickness. It's really on
+the middle section of each piece that uses infill.
+
+The parts can optionally be glued together, but they do hold pretty well with
+just compression.
 
 ## Images
 

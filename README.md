@@ -68,7 +68,7 @@ most of the housing and connections from rain and direct sunlight.
 
 [<img src="Sprinkler/ValveCollars/Media/Hero.jpg" width=400>](Sprinkler/ValveCollars)
 
-[ValveCollars](Sprinkler/ValveCollars) - Collars designed for a standard US 6"
+[Valve Collars](Sprinkler/ValveCollars) - Collars designed for a standard US 6"
 round valve box to keep decorative fill rocks from covering up and preventing
 access to the valves.
 
