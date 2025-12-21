@@ -1,0 +1,24 @@
+Name,Unit,Expression,Value,Comments,Favorite
+VentWidth,mm,70.5 mm,70.50,,false
+VentHeight,mm,96.8 mm,96.80,,false
+VentRadius,mm,5.5 mm,5.50,,false
+VentInsertDepth,mm,25 mm,25.00,,false
+VentInsertThickness,mm,3 mm,3.00,,false
+VentAdapterDepth,mm,VentHoleThreadHeight + StockVentTabHeight,40.00,,false
+VentHoleRadius,mm,63 mm,63.00,,false
+DashCurveRadius,mm,600 mm,600.00,,false
+DashCurveInset,mm,4 mm,4.00,,false
+VentLegAttachDepth,mm,0.5 mm,0.50,,false
+VentBottomFiletRadius,mm,1.2 mm,1.20,,false
+VentHoleTestThickness,mm,4 mm,4.00,,false
+VentHoleTestHeight,mm,4 mm,4.00,,false
+VentLegDepth,mm,20 mm,20.00,,false
+VentHoleThreadHeight,mm,28 mm,28.00,,false
+StockVentTabHeight,mm,12 mm,12.00,To clear the stock pivot tab,false
+VentHoleThreadPitch,mm,1.75 mm,1.75,,false
+PrintShrinkage,mm,1.4 mm,1.40,How much the part shrinks when printed,false
+ThreadMinorDiameter,mm,61.8 mm,61.80,,false
+ThreadMajorDiameter,mm,63 mm,63.00,,false
+ThreadPitch,mm,2.0 mm,2.00,,false
+ThreadPitchDiameter,mm,( ( ThreadMajorDiameter - ThreadMinorDiameter ) / 2 ) + ThreadMinorDiameter,62.40,,false
+VentLegSlopeAngle,deg,5 deg,5.0,Angle the legs pitch inward,false

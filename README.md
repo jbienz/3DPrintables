@@ -30,7 +30,12 @@ while learning to fly in sims.
 [Timber DJI FPV Mount](Eflite/Timber/DJIFPV) - Mount the DJI Digital FPV system
 to E-flite Timber series aircraft.
 
-### Mateksys
+### Honda
+
+[<img src="Honda/Pilot2007/VentAdapter/Media/Design.jpg" width=400>](Honda/Pilot2007/VentAdapter)
+
+[Air Vent Adapter](Honda/Pilot2007/VentAdapter) - Adapter to better direct air
+conditioning in a Honda Pilot, compatible with threaded deflector vents.
 
 ### Mateksys
 

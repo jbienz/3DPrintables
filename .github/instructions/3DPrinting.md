@@ -49,7 +49,8 @@ Below are the steps for generating a new Print Project:
    hyperlink to the .3mf if it exist. If the .3mf exists, explain that it
    includes the recommended print settings such as supports and infill.
 9. If additional images exist that have not been embedded yet, create an Images
-   section and embed (not link) to those images here.
+   section and embed the images directly in this section using image tags. Do
+   not link to the image files. They must be displayed inline.
 10. Do not create a miscellaneous "Files" section. All files should already be
     embedded, linked or used in other sections. If there are additional files
     that have not been referenced elsewhere in the document, please warn me.
