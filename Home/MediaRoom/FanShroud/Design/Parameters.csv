@@ -1,0 +1,17 @@
+Name,Unit,Expression,Value,Comments,Favorite
+ShroudThickness,mm,2 mm,2.00,,false
+MaxPrintWidth,mm,170 mm,170.00,,false
+AVPlateWidth,mm,441.325 mm,441.325,,false
+AVPlateHeight,mm,45 mm,45.00,,false
+ConnectWidth,mm,12 mm,12.00,,false
+AttachLength,mm,19 mm,19.00,,false
+FlareLength,mm,10 mm,10.00,,false
+AVSlope,mm,36 mm,36.00,,false
+LoftFiletRadius,mm,20 mm,20.00,,false
+ProfileFiletRadius,mm,1.5 mm,1.50,,false
+ConnectFiletRadius,mm,0.75 mm,0.75,,false
+EdgeFilet,mm,0.5 mm,0.50,,false
+MaxPrintHeight,mm,180 mm,180.00,,false
+AttachExtension,mm,55 mm,55.00,,false
+SupportWidth,mm,6 mm,6.00,,false
+CableRadius,mm,2 mm,2.00,,false

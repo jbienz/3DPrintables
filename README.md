@@ -30,6 +30,14 @@ while learning to fly in sims.
 [Timber DJI FPV Mount](Eflite/Timber/DJIFPV) - Mount the DJI Digital FPV system
 to E-flite Timber series aircraft.
 
+### Home
+
+[<img src="Home/MediaRoom/FanShroud/Media/Hero.jpg" width=400>](Home/MediaRoom/FanShroud)
+
+[Media Room Fan Shroud](Home/MediaRoom/FanShroud) - Route heat exhaust from a
+Denon amplifier down and out through lower ventilation, compatible with the
+[AC Infinity CLOUDPLATE T5](https://www.amazon.com/dp/B07B4QY1C8).
+
 ### Honda
 
 [<img src="Honda/Pilot2007/VentAdapter/Media/Hero.jpg" width=400>](Honda/Pilot2007/VentAdapter)
