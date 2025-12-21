@@ -11,15 +11,15 @@ significant changes please share those too.
 
 ## Background
 
-![](Media/Design.jpg)
-
-![](Media/Install02.jpg)
+![](Media/Hero.jpg)
 
 I'm very happy to have such a clean install of my Powerwalls. I have no conduit
 running between the units or the ceiling. So it bothered me how unfinished the
 knock-out ports looked one each side of the units.
 
 ## Design
+
+![](Media/Design.jpg)
 
 The Fusion 360 design file is [PortCovers.f3d](Design/PortCovers.f3d). It's
 fully parametric in case you want to modify something.
@@ -65,5 +65,3 @@ face.
 ![](Media/Install02.jpg)
 
 ![](Media/Install03.jpg)
-
-![](Media/Install04.jpg)

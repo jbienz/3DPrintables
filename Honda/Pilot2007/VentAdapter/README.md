@@ -11,11 +11,11 @@ significant changes please share those too.
 
 ## Background
 
-![Air vent adapter design](Media/Install01.jpg) I created this because my
-daughter wanted to better direct the air conditioning onto herself and onto her
-dog. Her dog was especially lower in the seat than the stock vents would direct
-the airflow. These adapters do not require removing the stock vents. I applied
-small adhesive rubber tabs to help them stay secure and not rattle. It uses this
+![Air vent adapter design](Media/Hero.jpg) I created this because my daughter
+wanted to better direct the air conditioning onto herself and onto her dog. Her
+dog was especially lower in the seat than the stock vents would direct the
+airflow. These adapters do not require removing the stock vents. I applied small
+adhesive rubber tabs to help them stay secure and not rattle. It uses this
 threaded
 [Deflector Vent](https://www.amazon.com/dp/B09FDMGWDQ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3)
 from Amazon.
@@ -79,4 +79,4 @@ Print files are in the `Print` folder.
 
 ![Print example 4](Media/Print04.jpg)
 
-![Installation example 2](Media/Install02.jpg)
+![Installation example 2](Media/Install01.jpg)

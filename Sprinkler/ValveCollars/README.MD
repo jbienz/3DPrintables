@@ -11,13 +11,15 @@ please share those too.
 
 ## Background
 
+![Design image showing the model](Media/Hero.jpg)
+
 These collars are designed for a standard US 6" round valve box. They were
 created to keep decorative fill rocks from covering up and preventing access to
 the valves.
 
-![Design image showing the model](Media/Design.jpg)
-
 ## Design
+
+![Design image showing the model](Media/Design.jpg)
 
 The model is parametric. The Fusion 360 design file is included below:
 
@@ -49,5 +51,3 @@ Two ways to print:
   slicing.
 - [`ValveCollar6in.3mf`](Print/ValveCollar6in.3mf) — Prusa Slicer file with
   recommended print settings.
-
-![Installed image showing the collar in use](Media/Installed.jpg)

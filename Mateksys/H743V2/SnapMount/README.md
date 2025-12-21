@@ -1,31 +1,39 @@
 # Mateksys H743 Wing V2 Snap Mount
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**IMPORTANT:** Please be aware that these designs are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). In short, you can print them and modify them freely for personal use. But if you want to use them commercially or sell them for profit, you'll need to contact me for a different license. Please give me credit when you can, and if you make significant changes please share those too.
-
+**IMPORTANT:** Please be aware that these designs are licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). In short,
+you can print them and modify them freely for personal use. But if you want to
+use them commercially or sell them for profit, you'll need to contact me for a
+different license. Please give me credit when you can, and if you make
+significant changes please share those too.
 
 ## Background
 
-This print is a solid self-snapping mount for the [Mateksys H743 Wing V2](http://www.mateksys.com/?portfolio=h743-wing-v2).
+<img src="Media/Hero.jpg" width=600>
+
+This print is a solid self-snapping mount for the
+[Mateksys H743 Wing V2](http://www.mateksys.com/?portfolio=h743-wing-v2).
 
 <img src="Media/Printed01.jpg" width=600>
 
-<img src="Media/Printed02.jpg" width=600>
-
-It can be hot glued into foam planes, or it can be screwed into wood planes with a US #4 wood screw or similar.
+It can be hot glued into foam planes, or it can be screwed into wood planes with
+a US #4 wood screw or similar.
 
 <img src="Media/Installed01.jpg" width=600>
 
-<img src="Media/Installed02.jpg" width=600>
+The top lid securely snaps into the base, but can be separated again with a bit
+of force. It is designed to remain secure in flight, but not require so much
+force to open that the base would come unglued. This allows for the Wing V2 to
+be removed and worked on then returned to the aircraft.
 
-The top lid securely snaps into the base, but can be separated again with a bit of force. It is designed to remain secure in flight, but not require so much force to open that the base would come unglued. This allows for the Wing V2 to be removed and worked on then returned to the aircraft.
-
-If snapping ever becomes too loose (due to repeated opening and closing), simply reprint the top lid.   
-
+If snapping ever becomes too loose (due to repeated opening and closing), simply
+reprint the top lid.
 
 ## Design
 
-The Fusion 360 design file is [H743V2SnapMount.f3d](Design/H743V2SnapMount.f3d). 
+The Fusion 360 design file is [H743V2SnapMount.f3d](Design/H743V2SnapMount.f3d).
 
 <img src="Media/DesignSideProfile.png" width=600>
 
@@ -36,7 +44,7 @@ The Fusion 360 design file is [H743V2SnapMount.f3d](Design/H743V2SnapMount.f3d).
 It's fully parametric using **Modify -> Change Parameters**.
 
 | Name                  | Default      | Comments                                                     |
-|-----------------------|--------------|--------------------------------------------------------------|
+| --------------------- | ------------ | ------------------------------------------------------------ |
 | BottomHeight          | 4 mm         | Height of the base                                           |
 | BottomWallHeight      | (Calculated) | Height of bottom walls                                       |
 | CapBottomOffset       | 3 mm         | Offset between bottom of board and capacitor                 |
@@ -81,16 +89,19 @@ It's fully parametric using **Modify -> Change Parameters**.
 | WingWidth             | 35.9 mm      | Width of all 3 circuit boards                                |
 | WireGap               | 1 mm         | Extra gap around wire area                                   |
 
-
 ## Printing
 
 Two ways to print:
 
-1. [SnapMount.3mf](Print/SnapMount.3mf) - A Prusa Slicer project ready to print both halves with the recommended settings below.
-2. [Bottom.stl](Print/Bottom.stl) and [Top.stl](Print/Top.stl) - The two STL halves without any parameters (see recommended settings below).
+1. [SnapMount.3mf](Print/SnapMount.3mf) - A Prusa Slicer project ready to print
+   both halves with the recommended settings below.
+2. [Bottom.stl](Print/Bottom.stl) and [Top.stl](Print/Top.stl) - The two STL
+   halves without any parameters (see recommended settings below).
 
 ### Recommended settings
 
-For this model PLA is not recommend since the snap joints will wear out more quickly. PETG is preferred.
+For this model PLA is not recommend since the snap joints will wear out more
+quickly. PETG is preferred.
 
-I recommend a layer height of 0.15 mm to help round out the snap joints and 20% infill is sufficient. No supports are necessary.
+I recommend a layer height of 0.15 mm to help round out the snap joints and 20%
+infill is sufficient. No supports are necessary.

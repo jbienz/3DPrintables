@@ -11,7 +11,7 @@ please share those too.
 
 ## Background
 
-![](Media/Design.jpg)
+![](Media/Hero.jpg)
 
 This hood was designed to protect the body and connectors from rain and sun.
 
@@ -64,7 +64,5 @@ used.
 ## Images
 
 Additional photos:
-
-![](Media/MountedLeft.jpg)
 
 ![](Media/MountedRight.jpg)

@@ -31,31 +31,33 @@ Below are the steps for generating a new Print Project:
 
 1. Review [Tesla/Model3/CupHolders/README.MD](Tesla/Model3/CupHolders/README.MD)
    as an example of a good README.MD.
-2. The README.MD must include the CC BY-NC-SA 4.0 license.
-3. The Background section should describe the project. Please generate some
+1. The README.MD must include the CC BY-NC-SA 4.0 license.
+1. If an image exists in the Media folder named Hero.jpg or Hero.png, that image
+   should be the first thing displayed in the Background section. Be sure to use
+   an image tag with a width of 600 pixels to ensure a good fit.
+1. The Background section should also describe the project. Please generate some
    placeholder text based on the context you have available and I will fill it
    in.
-4. The Background section should also include one image from the Media folder.
-   If the Media folder includes Design.jpg or Design.png, use that.
-5. In the Design section, create a hyperlink to the .f3d file by name if it
+1. In the Design section, create a hyperlink to the .f3d file by name if it
    exists and explain that the model is parametric. If no .f3d file exists,
    mention it as a warning and generate placeholder text for me to fill in.
-6. If the Design folder includes a Parameters.csv file, be sure to create a
+1. If the Design folder includes a Parameters.csv file, be sure to create a
    Parameters table in the Design section. This table should show Name,
    Expression and Comments from the CSV and should have a header row.
-7. In the Printing section, if there is an image under Media whose filename
+1. In the Printing section, if there is an image under Media whose filename
    starts with "Print", include that image in this section.
-8. In the Printing section, create a hyperlink to the .stl and also create a
+1. In the Printing section, create a hyperlink to the .stl and also create a
    hyperlink to the .3mf if it exist. If the .3mf exists, explain that it
    includes the recommended print settings such as supports and infill.
-9. If additional images exist that have not been embedded yet, create an Images
+1. If additional images exist that have not been embedded yet, create an Images
    section and embed the images directly in this section using image tags. Do
-   not link to the image files. They must be displayed inline.
-10. Do not create a miscellaneous "Files" section. All files should already be
-    embedded, linked or used in other sections. If there are additional files
-    that have not been referenced elsewhere in the document, please warn me.
-11. Follow the steps below to Update the root README.MD to include the new Print
-    Project.
+   not link to the image files. They must be displayed inline. Be sure to use an
+   image tag with a width of 600 pixels to ensure a good fit.
+1. Do not create a miscellaneous "Files" section. All files should already be
+   embedded, linked or used in other sections. If there are additional files
+   that have not been referenced elsewhere in the document, please warn me.
+1. Follow the steps below to Update the root README.MD to include the new Print
+   Project.
 
 # Updating the root README.MD to include the new Print Project
 
@@ -66,9 +68,9 @@ Project README.MD:
    section should be sorted alphabetically by Manufacturer, then alphabetically
    by print project. If the manufacturer already exists, use it. If it doesn't
    exist, add it where it belongs alphabetically.
-2. Link to the print project using the print project name from its own
+1. Link to the print project using the print project name from its own
    README.MD.
-3. Include one image from the print project Media folder. If the Media folder
-   includes Design.jpg or Design.png, use that. Be sure to use the img tag with
-   a specified width of 400 to ensure it fits with the other images.
-4. Include a short excerpt from the print project README.MD Background section.
+1. Include Hero.jpg or Hero.png from the print project Media folder. Be sure to
+   use the img tag with a specified width of 400 to ensure it fits with the
+   other images.
+1. Include a short excerpt from the print project README.MD Background section.
